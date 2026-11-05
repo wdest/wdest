@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Desttex. Creative technology." />
+</p>
 
-<!--
-**wdest/wdest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Salam, mən Desttex 👋</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Welcome to my corner of GitHub.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <sub>IDEAS &nbsp; · &nbsp; CREATIVITY &nbsp; · &nbsp; TECHNOLOGY</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
