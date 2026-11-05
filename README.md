@@ -18,33 +18,41 @@
 
 ## Seçilmiş layihələr
 
+<p>
 <a href="https://moc.com.az/">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/moc-mobile.svg" />
     <img src="./assets/moc-desktop.svg" width="100%" alt="MOC — təhsil, imtahan qeydiyyatı və nəticə platforması. Next.js, React Native və Supabase. Saytı aç." />
   </picture>
 </a>
+</p>
 
+<p>
 <a href="https://woc-fawn-kappa.vercel.app/">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/woc-mobile.svg" />
     <img src="./assets/woc-desktop.svg" width="100%" alt="WOC — üçdilli olimpiada hazırlığı və interaktiv öyrənmə platforması. JavaScript, Supabase və esbuild. Saytı aç." />
   </picture>
 </a>
+</p>
 
+<p>
 <a href="https://imtahan.desttex.me/">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/imtahan-mobile.svg" />
     <img src="./assets/imtahan-desktop.svg" width="100%" alt="İmtahan — universitet fənləri üçün interaktiv sınaq və nəticə sistemi. JavaScript, localStorage və Vercel. Saytı aç." />
   </picture>
 </a>
+</p>
 
+<p>
 <a href="https://to-do-ebon-sigma.vercel.app/">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/nilufer-mobile.svg" />
     <img src="./assets/nilufer-desktop.svg" width="100%" alt="Nilufər — şəxsi tapşırıq tətbiqi. Next.js, Supabase və Web Push. Google hesabı ilə giriş tələb olunur." />
   </picture>
 </a>
+</p>
 
 ## Texnologiyalar
 
@@ -75,3 +83,4 @@ Playwright · Node.js test runner · PGlite · ESLint
 <br />
 
 <p align="center"><sub>DESTTEX &nbsp; / &nbsp; WDEST</sub></p>
+
