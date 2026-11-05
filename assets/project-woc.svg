@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="310" viewBox="0 0 620 310" role="img" aria-label="WOC: Olimpiada hazırlığı. Üç dildə dərslər, testlər və interaktiv öyrənmə.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#261C40"/><stop offset="1" stop-color="#0C1322"/></linearGradient></defs>
+<rect x="1" y="1" width="618" height="308" rx="20" fill="url(#bg)" stroke="#C4A6FF" stroke-opacity=".32" stroke-width="2"/>
+<path d="M28 0H592" stroke="#C4A6FF" stroke-width="3"/>
+<circle cx="537" cy="76" r="32" fill="#C4A6FF" fill-opacity=".12"/>
+<path d="M514 62L523 89L536 69L549 89L558 62" stroke="#C4A6FF" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="34" y="49" fill="#C4A6FF" font-size="13" letter-spacing="2.5">SELECTED PROJECT</text>
+<text x="31" y="117" fill="#F4F5FB" font-size="46" font-weight="700" letter-spacing="-1">WOC</text>
+<text x="34" y="162" fill="#D0D7E8" font-size="23">Olimpiada hazırlığı</text>
+<text x="34" y="197" fill="#93A1BC" font-size="18">Üç dildə dərslər, testlər və interaktiv öyrənmə.</text>
+<path d="M34 228H586" stroke="#C4A6FF" stroke-opacity=".18"/>
+<text x="34" y="270" fill="#C4A6FF" font-size="16" font-weight="700" letter-spacing="1">WORLD OLYMPIAD COMMUNITY</text>
+</g></svg>

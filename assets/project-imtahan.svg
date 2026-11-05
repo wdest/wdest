@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="310" viewBox="0 0 620 310" role="img" aria-label="İmtahan: Universitet sınaq imtahanları. Aralıq və final hazırlığı, suallar və nəticələr.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#142C46"/><stop offset="1" stop-color="#0C1322"/></linearGradient></defs>
+<rect x="1" y="1" width="618" height="308" rx="20" fill="url(#bg)" stroke="#8BC9FF" stroke-opacity=".32" stroke-width="2"/>
+<path d="M28 0H592" stroke="#8BC9FF" stroke-width="3"/>
+<circle cx="537" cy="76" r="32" fill="#8BC9FF" fill-opacity=".12"/>
+<rect x="520" y="51" width="35" height="48" rx="5" fill="none" stroke="#8BC9FF" stroke-width="3"/><path d="M529 63L533 67L541 59M529 77H547M529 86H543" stroke="#8BC9FF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="34" y="49" fill="#8BC9FF" font-size="13" letter-spacing="2.5">SELECTED PROJECT</text>
+<text x="31" y="117" fill="#F4F5FB" font-size="46" font-weight="700" letter-spacing="-1">İmtahan</text>
+<text x="34" y="162" fill="#D0D7E8" font-size="23">Universitet sınaq imtahanları</text>
+<text x="34" y="197" fill="#93A1BC" font-size="18">Aralıq və final hazırlığı, suallar və nəticələr.</text>
+<path d="M34 228H586" stroke="#8BC9FF" stroke-opacity=".18"/>
+<text x="34" y="270" fill="#8BC9FF" font-size="16" font-weight="700" letter-spacing="1">IMTAHAN.DESTTEX.ME</text>
+</g></svg>
