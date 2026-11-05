@@ -16,7 +16,7 @@
 <rect width="1280" height="4" fill="url(#line)"/>
 <circle cx="1010" cy="220" r="260" fill="url(#glow)"/>
 <g font-family="Arial, Helvetica, sans-serif">
-<rect x="60" y="44" width="222" height="35" rx="17.5" fill="#172738" stroke="#31545D"/>
+<rect x="60" y="44" width="265" height="35" rx="17.5" fill="#172738" stroke="#31545D"/>
 <circle cx="80" cy="61.5" r="4" fill="#66E6D9"><animate attributeName="opacity" values=".45;1;.45" dur="4s" repeatCount="indefinite"/></circle>
 <text x="96" y="67" fill="#ADDAD9" font-size="13" letter-spacing="2">THE WDEST WORKSPACE</text>
 <text x="54" y="224" fill="#F6F4FF" font-size="118" font-weight="700" letter-spacing="-6">Desttex<tspan fill="#BCA1FF">.</tspan></text>

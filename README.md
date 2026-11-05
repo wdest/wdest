@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://to-do-ebon-sigma.vercel.app/"><strong>🌱 Nilufər tətbiqini aç ↗</strong></a>
+  <a href="https://to-do-ebon-sigma.vercel.app/"><strong>🌱 Nilufər tətbiqini aç</strong></a>
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
