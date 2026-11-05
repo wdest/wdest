@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="12" viewBox="0 0 1280 12" role="img" aria-label="Violet, cyan, and coral accent line">
-  <defs><linearGradient id="accent"><stop stop-color="#BFA0FF"/><stop offset=".5" stop-color="#5FE4E7"/><stop offset="1" stop-color="#FF998B"/></linearGradient></defs>
-  <rect y="4" width="1280" height="4" rx="2" fill="url(#accent)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="24" viewBox="0 0 1280 24" role="img" aria-label="Animated color accent"><defs><linearGradient id="accent"><stop stop-color="#BFA0FF"/><stop offset=".5" stop-color="#5FE4E7"/><stop offset="1" stop-color="#FF998B"/></linearGradient></defs><rect y="10" width="1280" height="3" rx="1.5" fill="url(#accent)" opacity=".6"/><circle cx="8" cy="11.5" r="5" fill="#BFA0FF"><animate attributeName="cx" values="8;1272;8" dur="18s" repeatCount="indefinite"/><animate attributeName="fill" values="#BFA0FF;#5FE4E7;#FF998B;#5FE4E7;#BFA0FF" dur="18s" repeatCount="indefinite"/></circle></svg>

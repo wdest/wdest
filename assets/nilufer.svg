@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="290" viewBox="0 0 1280 290" role="img" aria-labelledby="title desc">
+<title id="title">Nilufər — Open the task garden</title><desc id="desc">A task management app. Google sign-in is required.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#122E2C"/><stop offset="1" stop-color="#0E1B27"/></linearGradient><linearGradient id="petal"><stop stop-color="#F8A6D1"/><stop offset="1" stop-color="#D9B0FF"/></linearGradient></defs>
+<rect x="1" y="1" width="1278" height="288" rx="20" fill="url(#bg)" stroke="#315054" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="48" y="49" fill="#82D8BD" font-size="15" letter-spacing="3">01 / WEB APP</text>
+<text x="45" y="120" fill="#F4F5F4" font-size="55" font-weight="700" letter-spacing="-1">Nilufər</text>
+<text x="49" y="162" fill="#B2C6C9" font-size="23">A private task garden.</text>
+<rect x="48" y="203" width="176" height="44" rx="22" fill="#9AE5C9"/>
+<text x="72" y="231" fill="#102A26" font-size="18" font-weight="700">Open the app &#8599;</text>
+<text x="246" y="231" fill="#A8BABF" font-size="16">Google sign-in required</text>
+</g>
+<g transform="translate(1050 143)">
+<circle r="100" fill="#172F32" stroke="#2B4649"/>
+<path d="M0 20V81" fill="none" stroke="#95D6B6" stroke-width="5" stroke-linecap="round"/>
+<path d="M-2 63C-41 65 -48 36 -48 36C-17 33 -2 47 -2 63M2 71C41 73 48 44 48 44C17 41 2 55 2 71" fill="#70B798"/>
+<g fill="url(#petal)">
+<ellipse cy="-39" rx="17" ry="34"/>
+<ellipse cy="-39" rx="17" ry="34" transform="rotate(60)"/>
+<ellipse cy="-39" rx="17" ry="34" transform="rotate(120)"/>
+<ellipse cy="-39" rx="17" ry="34" transform="rotate(180)"/>
+<ellipse cy="-39" rx="17" ry="34" transform="rotate(240)"/>
+<ellipse cy="-39" rx="17" ry="34" transform="rotate(300)"/>
+</g>
+<circle r="22" fill="#FFDB9A"/><circle cx="-7" cy="-2" r="2.5" fill="#815D35"/><circle cx="7" cy="-2" r="2.5" fill="#815D35"/>
+<path d="M-6 7Q0 12 6 7" fill="none" stroke="#815D35" stroke-width="2" stroke-linecap="round"/>
+<circle cx="-124" cy="-58" r="5" fill="#91DDC0"/><path d="M107 72H125M116 63V81" stroke="#F1B2D7" stroke-width="3" stroke-linecap="round"/>
+</g></svg>
