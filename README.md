@@ -16,8 +16,6 @@
   <a href="https://to-do-ebon-sigma.vercel.app/">Nilufər</a>
 </p>
 
-<br />
-
 ## Seçilmiş layihələr
 
 <a href="https://moc.com.az/">
@@ -27,16 +25,12 @@
   </picture>
 </a>
 
-<br /><br />
-
 <a href="https://woc-fawn-kappa.vercel.app/">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/woc-mobile.svg" />
     <img src="./assets/woc-desktop.svg" width="100%" alt="WOC — üçdilli olimpiada hazırlığı və interaktiv öyrənmə platforması. JavaScript, Supabase və esbuild. Saytı aç." />
   </picture>
 </a>
-
-<br /><br />
 
 <a href="https://imtahan.desttex.me/">
   <picture>
@@ -45,16 +39,12 @@
   </picture>
 </a>
 
-<br /><br />
-
 <a href="https://to-do-ebon-sigma.vercel.app/">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/nilufer-mobile.svg" />
     <img src="./assets/nilufer-desktop.svg" width="100%" alt="Nilufər — şəxsi tapşırıq tətbiqi. Next.js, Supabase və Web Push. Google hesabı ilə giriş tələb olunur." />
   </picture>
 </a>
-
-<br />
 
 ## Texnologiyalar
 
@@ -76,8 +66,10 @@ Tailwind CSS · Framer Motion · Lenis · Three.js · React Three Fiber · Drei 
 **Süni intellekt və sənədlər**  
 Gemini API · OpenAI API · React PDF · PDF-lib · XLSX
 
-**Yayım, alətlər və testlər**  
-Git / GitHub · Vercel · Docker · Nginx · GitHub Actions · esbuild  
+**Yayım və alətlər**  
+Git / GitHub · Vercel · Docker · Nginx · GitHub Actions · esbuild
+
+**Keyfiyyət və testlər**  
 Playwright · Node.js test runner · PGlite · ESLint
 
 <br />
