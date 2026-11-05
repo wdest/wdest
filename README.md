@@ -1,44 +1,85 @@
-<p align="center">
-  <img src="./assets/hero-animated.svg" width="100%" alt="Desttex. Ideas in motion. An animated creative technology workspace." />
-</p>
-
-<h2 align="center">Salam, mən Desttex 👋</h2>
-
-<p align="center">
-  Təhsil, olimpiada hazırlığı və gündəlik məhsuldarlıq üçün veb layihələri.<br />
-  <sub>Welcome to my corner of GitHub.</sub>
-</p>
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/hero-premium-still-mobile.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-premium-still-desktop.svg" />
+  <source media="(max-width: 600px)" srcset="./assets/hero-premium-mobile.svg" />
+  <img src="./assets/hero-premium-desktop.svg" width="100%" alt="Desttex. Web. Mobile. Ideas in motion." />
+</picture>
 
 <p align="center">
-  <a href="https://moc.com.az/"><strong>MOC</strong></a> &nbsp; · &nbsp;
-  <a href="https://woc-fawn-kappa.vercel.app/"><strong>WOC</strong></a> &nbsp; · &nbsp;
-  <a href="https://imtahan.desttex.me/"><strong>İmtahan</strong></a> &nbsp; · &nbsp;
-  <a href="https://to-do-ebon-sigma.vercel.app/"><strong>Nilufər</strong></a>
-</p>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-### ✨ Seçilmiş layihələr
-
-<p align="center">
-  <a href="https://moc.com.az/"><img src="./assets/project-moc.svg" width="350" alt="MOC — Main Olympic Center. Təhsil, imtahan qeydiyyatı və nəticə platforması. Saytı aç." /></a>
-  <a href="https://woc-fawn-kappa.vercel.app/"><img src="./assets/project-woc.svg" width="350" alt="WOC — World Olympiad Community. Üçdilli olimpiada hazırlığı və interaktiv öyrənmə platforması. Saytı aç." /></a>
+  Veb və mobil tətbiqlər, təhsil platformaları, interaktiv təcrübələr.
 </p>
 
 <p align="center">
-  <a href="https://imtahan.desttex.me/"><img src="./assets/project-imtahan.svg" width="350" alt="İmtahan. Universitet fənləri üçün aralıq və final sınaqları, sual seçimi və nəticələr. Saytı aç." /></a>
-  <a href="https://to-do-ebon-sigma.vercel.app/"><img src="./assets/project-nilufer.svg" width="350" alt="Nilufər. Şəxsi tapşırıq tətbiqi. Google hesabı ilə giriş tələb olunur. Tətbiqi aç." /></a>
+  <a href="https://moc.com.az/">MOC</a> &nbsp; / &nbsp;
+  <a href="https://woc-fawn-kappa.vercel.app/">WOC</a> &nbsp; / &nbsp;
+  <a href="https://imtahan.desttex.me/">İmtahan</a> &nbsp; / &nbsp;
+  <a href="https://to-do-ebon-sigma.vercel.app/">Nilufər</a>
 </p>
 
-<sub>Nilufər tətbiqindən istifadə üçün Google hesabı ilə giriş tələb olunur.</sub>
+<br />
 
-### 🧩 Layihələrdə istifadə etdiyim texnologiyalar
+## Seçilmiş layihələr
 
-<img src="./assets/stack.svg" width="100%" alt="TypeScript, React, Next.js, Tailwind CSS, Supabase" />
+<a href="https://moc.com.az/">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/moc-mobile.svg" />
+    <img src="./assets/moc-desktop.svg" width="100%" alt="MOC — təhsil, imtahan qeydiyyatı və nəticə platforması. Next.js, React Native və Supabase. Saytı aç." />
+  </picture>
+</a>
 
-<p align="center">
-  <br />
-  <sub>IDEAS &nbsp; → &nbsp; INTERFACES &nbsp; → &nbsp; EXPERIENCES</sub>
-</p>
+<br /><br />
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<a href="https://woc-fawn-kappa.vercel.app/">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/woc-mobile.svg" />
+    <img src="./assets/woc-desktop.svg" width="100%" alt="WOC — üçdilli olimpiada hazırlığı və interaktiv öyrənmə platforması. JavaScript, Supabase və esbuild. Saytı aç." />
+  </picture>
+</a>
+
+<br /><br />
+
+<a href="https://imtahan.desttex.me/">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/imtahan-mobile.svg" />
+    <img src="./assets/imtahan-desktop.svg" width="100%" alt="İmtahan — universitet fənləri üçün interaktiv sınaq və nəticə sistemi. JavaScript, localStorage və Vercel. Saytı aç." />
+  </picture>
+</a>
+
+<br /><br />
+
+<a href="https://to-do-ebon-sigma.vercel.app/">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/nilufer-mobile.svg" />
+    <img src="./assets/nilufer-desktop.svg" width="100%" alt="Nilufər — şəxsi tapşırıq tətbiqi. Next.js, Supabase və Web Push. Google hesabı ilə giriş tələb olunur." />
+  </picture>
+</a>
+
+<br />
+
+## Texnologiyalar
+
+Layihələrimdə istifadə etdiyim dillər, platformalar və alətlər.
+
+**Dillər**  
+TypeScript · JavaScript · HTML · CSS · SQL  
+Python: məlumat idxalı və sənəd emalı alətləri.
+
+**Veb və mobil tətbiqlər**  
+React · Next.js · React Native · Expo · React Navigation · i18next
+
+**Backend və məlumat**  
+Node.js · Supabase · PostgreSQL · Supabase Auth · IndexedDB · localStorage · Web Push
+
+**İnterfeys, animasiya və 3D**  
+Tailwind CSS · Framer Motion · Lenis · Three.js · React Three Fiber · Drei · Recharts
+
+**Süni intellekt və sənədlər**  
+Gemini API · OpenAI API · React PDF · PDF-lib · XLSX
+
+**Yayım, alətlər və testlər**  
+Git / GitHub · Vercel · Docker · Nginx · GitHub Actions · esbuild  
+Playwright · Node.js test runner · PGlite · ESLint
+
+<br />
+
+<p align="center"><sub>DESTTEX &nbsp; / &nbsp; WDEST</sub></p>
